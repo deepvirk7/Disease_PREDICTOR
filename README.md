@@ -1,6 +1,4 @@
-# Here’s a complete **README.md** tailored for your Disease_PREDICTOR project, based on all the files, structure, and code you’ve provided.[1][2]
 
-***
 
 # Disease_PREDICTOR
 
